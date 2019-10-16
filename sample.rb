@@ -1,5 +1,5 @@
 def hello
-  p "hello, Gittttttthuuuuuuuub."
+  p "hello, Gitman!"
 end
 
 hello
